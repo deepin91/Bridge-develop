@@ -21,12 +21,13 @@ Bridge는 작곡가와 연주자 즉, 뮤지션들을 서로 매칭시켜 협업
 ---
 
 ## 기술 스택  
-<!--
-**Backend**: Java, JavaScript, Spring Boot, Spring Data JPA, MyBatis, Redis  
+
+**Backend**: Java, JavaScript, Spring Boot(3.2.5), Spring Data JPA, MyBatis, Redis, JWT  
 **Frontend**: React, HTML, CSS  
-**Database**: MySQL  
+**Database**: MySQL, H2 (테스트)    
+**API 문서화**: springdoc-openapi (Swagger UI)  
 **Etc**: Gradle, GitHub  
--->  
+
 
 ---
 
@@ -57,6 +58,7 @@ Bridge는 작곡가와 연주자 즉, 뮤지션들을 서로 매칭시켜 협업
     - 리뷰 리스트
     - 별점, 평점 기능 추가
 -->
+
 
 
 
